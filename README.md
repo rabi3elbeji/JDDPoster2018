@@ -5,17 +5,17 @@
 
 ## Experiment Results
 
-This repository contains an implementation of image steganalysis based on the convolutional neural network.
+- This repository contains an implementation of image steganalysis based on the convolutional neural network.
 
-The accuracy of model classification cross 95 % in a high payload (for 1bpp).
+- The accuracy of model classification cross 95 % in a high payload (for 1bpp).
 
-We use `WOW` as a steganographic algorithm to evaluate our model. 
+- We use `WOW` as a steganographic algorithm to evaluate our model. 
 
-In the figure below the training process on a high payload: 1bpp.
+- In the figure below the training process on a high payload: 1bpp.
 
 ![alt text](images/model_learning.png 'Training process')
 
-For the payload less than 1 bpp, we used the transfer learning to accelerate the model convergence.
+- For the payload less than 1 bpp, we used the transfer learning to accelerate the model convergence.
 
 - Experiment results of **`WOW`** :
 

@@ -1,4 +1,4 @@
-# Journée des doctorants (JdD ENIT 2018)
+# ournée des doctorants (JdD ENIT 2018)
 
 ## Model architecture
 ![alt text](images/model.png "Proposed model")

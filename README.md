@@ -1,7 +1,7 @@
 # ournée des doctorants (JdD ENIT 2018)
 
 ## Model architecture
-![alt text](images/model.png "Proposed model")
+<img src="images/model.png"  style="width: 300px;"/>
 
 ## Experiment Results
 

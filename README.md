@@ -13,7 +13,7 @@ We use `WOW` as a steganographic algorithm to evaluate our model.
 
 In the figure below the training process on a high payload: 1bpp.
 
-![alt text](images/model_learning.png 'Training process (1.0bpp)')
+![alt text](images/model_learning.png 'Training process')
 
 For the payload less than 1 bpp, we used the transfer learning to accelerate the model convergence.
 

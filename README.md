@@ -30,8 +30,7 @@
 
 ## Authors:
 
- - Marwa Saidi
- - Rabii Elbeji
+ - [Rabii Elbeji](https://rabi3elbeji.github.io)
 
 License
 ----
